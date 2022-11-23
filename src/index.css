@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Kalam&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: "Kalam", cursive;
+  }
+}
